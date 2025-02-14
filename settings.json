@@ -1,0 +1,13 @@
+{
+    "Sound_effect": {
+        "X": ".Sounds& Effects/xTone.mp3",
+        "O": ".Sounds& Effects/OTone.mp3",
+        "Victory": ".Sounds& Effects/win.mp3",
+        "volume": 1.0
+    },
+    "music": {
+        "enabled": true,
+        "track": ".Sounds& Effects/music.mp3",
+        "volume": 0.5
+    }
+}
